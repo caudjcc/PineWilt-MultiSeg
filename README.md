@@ -8,7 +8,7 @@ This repository provides the dataset and code associated with the published pape
 
 ## Overview
 
-PineWilt-MultiSeg is the **publicly available multimodal high-resolution dataset for pine wilt disease (PWD)**. It contains:
+PineWilt-MultiSeg is the **a publicly available multimodal high-resolution dataset for pine wilt disease (PWD)**. It contains:
 
 - **3,938 pairs of RGB and multispectral images**
 - **Pixel-level semantic annotations** for middle and late disease stages
@@ -24,8 +24,8 @@ The PineWilt-MultiSeg dataset is now publicly available for research purposes.
 
 **Baidu Netdisk:**
 
-- **Download Link:** 
-- **Extraction Code:** 
+- **Download Link:** https://pan.baidu.com/s/1OpSgErM48etRGgUyRdKCJw?pwd=49qv
+- **Extraction Code:** `49qv`
 - **Shared Folder:** PineWilt-MultiSeg
 
 ---
