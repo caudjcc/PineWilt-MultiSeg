@@ -24,8 +24,8 @@ The PineWilt-MultiSeg dataset is now publicly available for research purposes.
 
 **Baidu Netdisk:**
 
-- **Download Link:** https://pan.baidu.com/s/1OpSgErM48etRGgUyRdKCJw?pwd=49qv
-- **Extraction Code:** `49qv`
+- **Download Link:** 
+- **Extraction Code:** 
 - **Shared Folder:** PineWilt-MultiSeg
 
 ---
