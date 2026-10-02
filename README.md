@@ -26,11 +26,20 @@ The PineWilt-MultiSeg dataset is now publicly available for research purposes.
 
 - **Download Link:** https://drive.google.com/file/d/1o-9eX8ornC_0WUuTqGhv21Tro-bz8Msz/view?usp=sharing
 
+## Dataset Download
+
+The PineWilt-MultiSeg dataset is now publicly available for research purposes.
+
+**Google Drive:**
+
+- **Download Link:** https://drive.google.com/file/d/1o-9eX8ornC_0WUuTqGhv21Tro-bz8Msz/view?usp=sharing
+
 **Baidu Netdisk:**
 
-- **Download Link:** https://pan.baidu.com/s/1OpSgErM48etRGgUyRdKCJw?pwd=49qv
-- **Extraction Code:** `49qv`
+- **Download Link:** https://pan.baidu.com/s/1fEDcA8-oAREaCnLvdP0HYg
+- **Extraction Code:** `4jci`
 - **Shared Folder:** PineWilt-MultiSeg
+
 
 ---
 
@@ -49,7 +58,21 @@ If you use PineWilt-MultiSeg in your research, please cite our paper:
 
 **PineWilt-MultiSeg: Joint spatial–spectral learning enables precise detection of pine wilt disease**
 
-*Computers and Electronics in Agriculture.*
+*Computers and Electronics in Agriculture*, 2026, 112480.  
+https://doi.org/10.1016/j.compag.2026.112480
+
+```bibtex
+@article{Liu2026PineWilt,
+  title   = {PineWilt-MultiSeg: Joint spatial--spectral learning enables precise detection of pine wilt disease},
+  journal = {Computers and Electronics in Agriculture},
+  pages   = {112480},
+  year    = {2026},
+  issn    = {0168-1699},
+  doi     = {10.1016/j.compag.2026.112480},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0168169926010781},
+  author  = {Guanghua Liu and Hanbing Sun and Yilin Xiong and Weidong Tang and Xin Cheng and Menghui Wang and Jie Deng}
+}
+```
 
 ---
 
