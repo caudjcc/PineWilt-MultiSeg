@@ -50,10 +50,11 @@ The PineWilt-MultiSeg dataset is now publicly available for research purposes.
 
 If you use PineWilt-MultiSeg in your research, please cite our paper:
 
-**PineWilt-MultiSeg: Joint spatial–spectral learning enables precise detection of pine wilt disease**
+**Direct citation:**
 
-*Computers and Electronics in Agriculture*, 2026, 112480.  
-https://doi.org/10.1016/j.compag.2026.112480
+Liu, G., Sun, H., Xiong, Y., Tang, W., Cheng, X., Wang, M., & Deng, J. (2026). PineWilt-MultiSeg: Joint spatial–spectral learning enables precise detection of pine wilt disease. *Computers and Electronics in Agriculture*, 112480. https://doi.org/10.1016/j.compag.2026.112480
+
+**BibTeX:**
 
 ```bibtex
 @article{Liu2026PineWilt,
