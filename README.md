@@ -18,13 +18,7 @@ The dataset enables the development and benchmarking of **multimodal deep learni
 
 ---
 
-## Dataset Download
 
-The PineWilt-MultiSeg dataset is now publicly available for research purposes.
-
-**Google Drive:**
-
-- **Download Link:** https://drive.google.com/file/d/1o-9eX8ornC_0WUuTqGhv21Tro-bz8Msz/view?usp=sharing
 
 ## Dataset Download
 
